@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="video_view">Electricity is out!</string>
+    <string name="button">Press it!</string>
+    <string name="newswitch">Switch</string>
+    <string name="hint">Your pin code, please.</string>
+    <string name="pic">hot pic</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
