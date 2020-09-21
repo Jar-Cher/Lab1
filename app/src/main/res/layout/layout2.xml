@@ -8,18 +8,15 @@
         android:id="@+id/editTextNumberPassword"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:ems="10"
         android:hint="@string/hint"
-        android:layout_weight="0"
         android:inputType="numberPassword"
         android:importantForAutofill="no" />
 
     <EditText
         android:id="@+id/editTextNumberDecimal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_weight="1"
-        android:ems="10"
         android:hint="@string/hint"
         android:inputType="numberDecimal"
         android:importantForAutofill="no" />
@@ -28,7 +25,6 @@
         android:id="@+id/editTextTextMultiLine"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:ems="10"
         android:hint="@string/hint"
         android:inputType="textMultiLine"
         android:importantForAutofill="no" />
